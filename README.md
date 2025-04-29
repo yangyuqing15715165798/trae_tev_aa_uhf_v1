@@ -6,6 +6,11 @@
 *   `all_sensors_reader.py`: 读取并显示 TEV、超声波、UHF 三种传感器的数据（推荐使用）。
 *   `uhf_monitor.py`: 仅读取并显示 UHF 传感器的数据。
 
+  ![image](https://github.com/user-attachments/assets/7090f3b4-c4a4-4268-acf8-1ab8d1d09a26)
+  ![image](https://github.com/user-attachments/assets/d0a539c1-3743-4240-b75a-77268d1cff96)
+
+
+
 ## 主要功能 (`all_sensors_reader.py`)
 
 *   通过串口连接到监测装置。
