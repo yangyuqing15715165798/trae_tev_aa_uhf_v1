@@ -50,7 +50,7 @@
 
 完成以上步骤后，项目的代码就已经成功上传并托管在 GitHub 远程仓库中了。
 
-** 常见问题1及解决:**
+# 常见问题1及解决:
 “
 PS E:\trae_test\开关柜局放软件_v2> git push -u origin master
 
@@ -108,7 +108,7 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
     *在你的分支是 `main`，则使用 `git push origin main`*
 简单来说，就是先 git pull 同步远程的更新，然后再 git push 把你的本地更新推上去。
 
-**常见问题2及解决:**
+# 常见问题2及解决:**
 “
 Merge branch 'master' of `https://github.com/yangyuqing15715165798/trae_tev_aa_uhf_v1` 
 # Please enter a commit message to explain why this merge is necessary,
@@ -118,7 +118,6 @@ Merge branch 'master' of `https://github.com/yangyuqing15715165798/trae_tev_aa_u
 # the commit.
 
 ”
-
 
 
           
