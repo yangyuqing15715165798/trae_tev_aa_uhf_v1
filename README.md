@@ -14,8 +14,10 @@
 ![PyQt5 版本界面](https://github.com/user-attachments/assets/7090f3b4-c4a4-4268-acf8-1ab8d1d09a26)
 ![PyQt5 版本界面](https://github.com/user-attachments/assets/d0a539c1-3743-4240-b75a-77268d1cff96)
 
-### 下面是pyside版本代码界面：
-![image](https://github.com/user-attachments/assets/c584869f-4962-4021-a323-f1a8136cf46b)
+### 下面是Pyside版本代码界面：
+![Pyside_版本界面](https://github.com/user-attachments/assets/c584869f-4962-4021-a323-f1a8136cf46b)
+![Pyside_版本界面](https://github.com/user-attachments/assets/820fcfa8-8ac3-4191-8374-297d7e47445c)
+
 
 
 
