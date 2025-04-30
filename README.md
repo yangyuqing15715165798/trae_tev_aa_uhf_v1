@@ -6,11 +6,21 @@
 *   `all_sensors_reader.py`: 基于 **PyQt5**，读取并显示 TEV、超声波、UHF 三种传感器的数据。
 *   `all_sensors_reader_pyside.py`: 基于 **PySide6**，功能与 PyQt5 版本相同，作为技术栈转换的示例。
 *   `uhf_monitor.py`: (较旧版本) 仅读取并显示 UHF 传感器的数据。
+*   `uhf_monitor_pyside.py`: (较新版本) 仅读取并显示 UHF 传感器的数据。
+*   pyqt5版本代码界面与pyside6版本界面相同。
 
 **推荐使用 `all_sensors_reader.py` 或 `all_sensors_reader_pyside.py`。**
-
+### 下面是PyQt5版本代码界面：
 ![PyQt5 版本界面](https://github.com/user-attachments/assets/7090f3b4-c4a4-4268-acf8-1ab8d1d09a26)
-![PySide6 版本界面](https://github.com/user-attachments/assets/d0a539c1-3743-4240-b75a-77268d1cff96)
+![PyQt5 版本界面](https://github.com/user-attachments/assets/d0a539c1-3743-4240-b75a-77268d1cff96)
+
+### 下面是Pyside版本代码界面：
+![Pyside_版本界面](https://github.com/user-attachments/assets/c584869f-4962-4021-a323-f1a8136cf46b)
+![Pyside_版本界面](https://github.com/user-attachments/assets/820fcfa8-8ac3-4191-8374-297d7e47445c)
+
+
+
+
 
 ## 主要功能 (`all_sensors_reader.py` / `all_sensors_reader_pyside.py`)
 
